@@ -1,8 +1,12 @@
 # cost-lab
 
+[![Deploy on Back4app](https://img.shields.io/badge/Deploy%20on-Back4app-1568B8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3eiIvPjwvc3ZnPg==)](https://www.back4app.com/signup?utm_source=github&utm_medium=repo&utm_campaign=cost-lab)
+
 The same feature — accounts, sign-in, and private notes only their owner can read,
 edit or delete — built twice. Both are held to the same eleven acceptance checks,
 and only then counted, with a real tokenizer rather than a guess.
+
+> **Read the article:** [Where Your AI Credits Go: 78% of the Tokens Buy Code Every App Already Has](https://www.back4app.com/blog/where-ai-credits-go-token-count?utm_source=github&utm_medium=repo&utm_campaign=cost-lab)
 
 ## Run it
 
